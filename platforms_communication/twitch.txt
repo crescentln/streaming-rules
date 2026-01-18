@@ -1,0 +1,4 @@
+twitch.tv
+ttvnw.net
+jtvnw.net
+ext-twitch.tv
