@@ -1,2 +1,11 @@
 apple.com
+apple.com.cn
 appletv.com
+appletv.fr
+appletv.wang
+applemusic.com
+music.apple.com
+itunes.apple.com
+play.itunes.apple.com
+streamingaudio.itunes.apple.com
+play.music.apple.com
